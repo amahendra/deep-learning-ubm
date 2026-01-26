@@ -1,4 +1,4 @@
-# 🧠 DSB18: Advanced Deep Learning Systems
+# 🧠 DSB18: Deep Learning 
 **Instructor:** [Amahendra](https://github.com/amahendra)  
 *CTO at Centaurops | Author | Lecturer at Bunda Mulia University*
 
